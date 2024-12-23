@@ -1,0 +1,524 @@
+[
+    {
+        "TIPO": "CALÇA FEMININA",
+        "DESCRIÇÃO": "CALÇA FEMININA Nº 34",
+        "COD SAP": 1143943,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA FEMININA",
+        "DESCRIÇÃO": "CALÇA FEMININA Nº 36",
+        "COD SAP": 1143250,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA FEMININA",
+        "DESCRIÇÃO": "CALÇA FEMININA Nº 38",
+        "COD SAP": 1143272,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA FEMININA",
+        "DESCRIÇÃO": "CALÇA FEMININA Nº 40",
+        "COD SAP": 1143273,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA FEMININA",
+        "DESCRIÇÃO": "CALÇA FEMININA Nº 42",
+        "COD SAP": 1143274,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA FEMININA",
+        "DESCRIÇÃO": "CALÇA FEMININA Nº 44",
+        "COD SAP": 1143275,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA FEMININA",
+        "DESCRIÇÃO": "CALÇA FEMININA Nº 46",
+        "COD SAP": 1143276,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA FEMININA",
+        "DESCRIÇÃO": "CALÇA FEMININA Nº 48",
+        "COD SAP": 1143277,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA FEMININA",
+        "DESCRIÇÃO": "CALÇA FEMININA Nº 50",
+        "COD SAP": 1143278,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA FEMININA",
+        "DESCRIÇÃO": "CALÇA FEMININA Nº 52",
+        "COD SAP": 1143279,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA MASCULINA",
+        "DESCRIÇÃO": "CALÇA MASCULINA Nº 36",
+        "COD SAP": 1143251,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA MASCULINA",
+        "DESCRIÇÃO": "CALÇA MASCULINA Nº 38",
+        "COD SAP": 1143280,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA MASCULINA",
+        "DESCRIÇÃO": "CALÇA MASCULINA Nº 40",
+        "COD SAP": 1143281,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA MASCULINA",
+        "DESCRIÇÃO": "CALÇA MASCULINA Nº 42",
+        "COD SAP": 1143231,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA MASCULINA",
+        "DESCRIÇÃO": "CALÇA MASCULINA Nº 44",
+        "COD SAP": 1143232,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA MASCULINA",
+        "DESCRIÇÃO": "CALÇA MASCULINA Nº 46",
+        "COD SAP": 1143233,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA MASCULINA",
+        "DESCRIÇÃO": "CALÇA MASCULINA Nº 48",
+        "COD SAP": 1143234,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA MASCULINA",
+        "DESCRIÇÃO": "CALÇA MASCULINA Nº 50",
+        "COD SAP": 1143235,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA MASCULINA",
+        "DESCRIÇÃO": "CALÇA MASCULINA Nº 52",
+        "COD SAP": 1143236,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA MASCULINA",
+        "DESCRIÇÃO": "CALÇA MASCULINA Nº 54",
+        "COD SAP": 1143237,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA MASCULINA",
+        "DESCRIÇÃO": "CALÇA MASCULINA Nº 56",
+        "COD SAP": 1143238,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA MASCULINA",
+        "DESCRIÇÃO": "CALÇA MASCULINA Nº 58",
+        "COD SAP": 1143239,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇA MASCULINA",
+        "DESCRIÇÃO": "CALÇA MASCULINA Nº 60",
+        "COD SAP": 1143297,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CALÇADO",
+        "DESCRIÇÃO": "BOTINA DE SEGURANÇA PRETO 33 ",
+        "COD SAP": 1139787,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "CALÇADO",
+        "DESCRIÇÃO": "BOTINA DE SEGURANÇA PRETO 34",
+        "COD SAP": 1139785,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "CALÇADO",
+        "DESCRIÇÃO": "BOTINA DE SEGURANÇA PRETO 35",
+        "COD SAP": 1139786,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "CALÇADO",
+        "DESCRIÇÃO": "BOTINA DE SEGURANÇA PRETO 36",
+        "COD SAP": 1139788,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "CALÇADO",
+        "DESCRIÇÃO": "BOTINA DE SEGURANÇA PRETO 37",
+        "COD SAP": 1139789,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "CALÇADO",
+        "DESCRIÇÃO": "BOTINA DE SEGURANÇA PRETO 38",
+        "COD SAP": 1139800,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "CALÇADO",
+        "DESCRIÇÃO": "BOTINA DE SEGURANÇA PRETO 39",
+        "COD SAP": 1139801,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "CALÇADO",
+        "DESCRIÇÃO": "BOTINA DE SEGURANÇA PRETO 40",
+        "COD SAP": 1139802,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "CALÇADO",
+        "DESCRIÇÃO": "BOTINA DE SEGURANÇA PRETO 41",
+        "COD SAP": 1139803,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "CALÇADO",
+        "DESCRIÇÃO": "BOTINA DE SEGURANÇA PRETO 42",
+        "COD SAP": 1139804,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "CALÇADO",
+        "DESCRIÇÃO": "BOTINA DE SEGURANÇA PRETO 43",
+        "COD SAP": 1139805,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "CALÇADO",
+        "DESCRIÇÃO": "BOTINA DE SEGURANÇA PRETO 44",
+        "COD SAP": 1139806,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "CALÇADO",
+        "DESCRIÇÃO": "BOTINA DE SEGURANÇA PRETO 45",
+        "COD SAP": 1139807,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "CALÇADO",
+        "DESCRIÇÃO": "BOTINA DE SEGURANÇA PRETO 46",
+        "COD SAP": 1139808,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "CALÇADO",
+        "DESCRIÇÃO": "CADARÇO",
+        "COD SAP": 1143313,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "PALMILHA",
+        "DESCRIÇÃO": "PALMILHA 37",
+        "COD SAP": 1127548,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "PALMILHA",
+        "DESCRIÇÃO": "PALMILHA 38",
+        "COD SAP": 1127546,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "PALMILHA",
+        "DESCRIÇÃO": "PALMILHA 39 ",
+        "COD SAP": 1127557,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "PALMILHA",
+        "DESCRIÇÃO": "PALMILHA 40",
+        "COD SAP": 1127554,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "PALMILHA",
+        "DESCRIÇÃO": "PALMILHA 41",
+        "COD SAP": 1127547,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "PALMILHA",
+        "DESCRIÇÃO": "PALMILHA 42",
+        "COD SAP": 1127545,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "PALMILHA",
+        "DESCRIÇÃO": "PALMILHA 43",
+        "COD SAP": 1127555,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "PALMILHA",
+        "DESCRIÇÃO": "PALMILHA 44",
+        "COD SAP": 1127553,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "CAMISA",
+        "DESCRIÇÃO": "CAMISA BRIGADA P",
+        "COD SAP": 1143241,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CAMISA",
+        "DESCRIÇÃO": "CAMISA BRIGADA M",
+        "COD SAP": 1143242,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CAMISA",
+        "DESCRIÇÃO": "CAMISA BRIGADA G",
+        "COD SAP": 1143243,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CAMISA",
+        "DESCRIÇÃO": "CAMISA BRIGADA GG",
+        "COD SAP": 1143244,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CAMISA",
+        "DESCRIÇÃO": "CAMISA BRIGADA EGG",
+        "COD SAP": 1143245,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CAMISA",
+        "DESCRIÇÃO": "CAMISA UNIFORME PP",
+        "COD SAP": 1143209,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CAMISA",
+        "DESCRIÇÃO": "CAMISA UNIFORME P",
+        "COD SAP": 1143247,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CAMISA",
+        "DESCRIÇÃO": "CAMISA UNIFORME M",
+        "COD SAP": 1143248,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CAMISA",
+        "DESCRIÇÃO": "CAMISA UNIFORME G",
+        "COD SAP": 1143249,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CAMISA",
+        "DESCRIÇÃO": "CAMISA UNIFORME GG",
+        "COD SAP": 1143270,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "CAMISA",
+        "DESCRIÇÃO": "CAMISA UNIFORME EGG",
+        "COD SAP": 1143271,
+        "quantidades permitidas": 2
+    },
+    {
+        "TIPO": "KIT ABELHA",
+        "DESCRIÇÃO": "MACACAO PROTECAO POLIESTER/ALGODAO EXG",
+        "COD SAP": 1129714,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "KIT ABELHA",
+        "DESCRIÇÃO": "MANTA ALGODAO 100 PORC",
+        "COD SAP": 1142749,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "KIT ABELHA",
+        "DESCRIÇÃO": "INSETICIDA SBP",
+        "COD SAP": 1103277,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "KIT ABELHA",
+        "DESCRIÇÃO": "INSETICIDA TETRAMETRINA",
+        "COD SAP": 1105503,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "KIT ABELHA",
+        "DESCRIÇÃO": "LUVA SEGURANCA VAQUETA MISTA UNICO",
+        "COD SAP": 1120402,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "KIT ABELHA",
+        "DESCRIÇÃO": "PERNEIRA",
+        "COD SAP": 1116791,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "KIT ABELHA",
+        "DESCRIÇÃO": "FITA ISOLAMENTO SEGURANCA",
+        "COD SAP": 1142530,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "KIT ABELHA",
+        "DESCRIÇÃO": "PORTA FERRAMENTA KIT EMERGENCIA ABELHAS",
+        "COD SAP": 1142583,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "KIT ABELHA",
+        "DESCRIÇÃO": "CAPUZ FUGA ABELHAS",
+        "COD SAP": 1140365,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "OCULOS",
+        "DESCRIÇÃO": "OCULOS POLICARBONATO SOLUS 1000",
+        "COD SAP": 1137601,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "OCULOS",
+        "DESCRIÇÃO": "OCULOS ESPELHADO AERO",
+        "COD SAP": 1144814,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "OCULOS",
+        "DESCRIÇÃO": "ÓCULOS POLICARBONTO VERDE ET.46",
+        "COD SAP": 1103430,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "OCULOS",
+        "DESCRIÇÃO": "ÓCULOS POLICARBONATO HASTE ESPATULA - VERDE",
+        "COD SAP": 1103310,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "OCULOS",
+        "DESCRIÇÃO": "ÓCULOS AMPLA VISÃO - POLICARBONATO",
+        "COD SAP": 1103179,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "EPI",
+        "DESCRIÇÃO": "CAPACETE SEGURANCA BRANCO",
+        "COD SAP": 1141560,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "EPI",
+        "DESCRIÇÃO": "CAPACETE DE SEGURANÇA VERMELHO",
+        "COD SAP": 1141558,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "EPI",
+        "DESCRIÇÃO": "SUSPENSÃO DE CAPACETE / CARNEIRA",
+        "COD SAP": 1103375,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "EPI",
+        "DESCRIÇÃO": "LANTERNA PARA CAPACETE",
+        "COD SAP": 1154912,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "EPI",
+        "DESCRIÇÃO": "LUVA SEGURANCA VAQUETA UNICO",
+        "COD SAP": 1103176,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "EPI",
+        "DESCRIÇÃO": "LUVA SEGURANCA NITRILICA G",
+        "COD SAP": 1103173,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "EPI",
+        "DESCRIÇÃO": "CAPA GG",
+        "COD SAP": 1103164,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "EPI",
+        "DESCRIÇÃO": "PERNEIRA",
+        "COD SAP": 1116791,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "PROTETOR",
+        "DESCRIÇÃO": "PROTETOR AURICULAR PLUG SILICONE",
+        "COD SAP": 1111086,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "PROTETOR",
+        "DESCRIÇÃO": "PROTETOR AURICULAR ESPUMA",
+        "COD SAP": 1103180,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "PROTETOR",
+        "DESCRIÇÃO": "PROTETOR AURICULAR CONCHA",
+        "COD SAP": 1108360,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "PROTETOR",
+        "DESCRIÇÃO": "PROTETOR PERNA PERNEIRA COURO",
+        "COD SAP": 1116791,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "COSMETICOS",
+        "DESCRIÇÃO": "CREME PROTECAO NUTRIEX II (RISCO QUIMICO)",
+        "COD SAP": 1121654,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "COSMETICOS",
+        "DESCRIÇÃO": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "COD SAP": 1114370,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "OUTROS",
+        "DESCRIÇÃO": "PORTA FERRAMENTA COR 016 ROYAL 01467",
+        "COD SAP": 1141461,
+        "quantidades permitidas": 1
+    },
+    {
+        "TIPO": "OUTROS",
+        "DESCRIÇÃO": "GARRAFAO TERMICO",
+        "COD SAP": 1130122,
+        "quantidades permitidas": 1
+    }
+]
