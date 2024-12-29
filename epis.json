@@ -520,5 +520,251 @@
         "DESCRIÇÃO": "GARRAFAO TERMICO",
         "COD SAP": 1130122,
         "quantidades permitidas": 1
-    }
+    },
+    {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "CABO RODOS/VASSOURAS MADEIRA",
+        "COD SAP": 1138090,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "CONJUNTO PA JSN VASSOURA MINI COLETORA",
+        "COD SAP": 3517512,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "FEITICEIRA VASSOURA MAGICA VARREDOURA CA",
+        "COD SAP": 1220248,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "MAQUINA VASSOURA TROMBIA T220",
+        "COD SAP": 1200324,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "REFIL VASSOURA MOP 60 CM",
+        "COD SAP": 3527218,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "SUPORTE FIXO PAREDE P/VASSOURA RODO",
+        "COD SAP": 1327414,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "SUPORTE METALICO VASSOURAS",
+        "COD SAP": 1230023,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "VASSOURA 60CM VONDER VD610",
+        "COD SAP": 3502040,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "VASSOURA ANCHINO",
+        "COD SAP": 1210038,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "VASSOURA CERDAS DE PET 0.80MM",
+        "COD SAP": 1130252,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "VASSOURA CERDAS PLUMADAS",
+        "COD SAP": 1220213,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "VASSOURA DE NYLON NOVICA",
+        "COD SAP": 3504034,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "VASSOURA DE NYLON NOVICA BETTANNI",
+        "COD SAP": 1320320,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "VASSOURA EMPURRADORA AVANT TECNO A437121",
+        "COD SAP": 3504031,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "VASSOURA GARI 60CM 5 FILEIRAS",
+        "COD SAP": 1320639,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "VASSOURA METALICA TRAMONTINA 77837721",
+        "COD SAP": 1321034,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "VASSOURA MOP",
+        "COD SAP": 3504684,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "VASSOURA PELO SINTETICO",
+        "COD SAP": 1230005,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "VASSOURA PIAPACA IPIRANGA N4",
+        "COD SAP": 1230080,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "VASSOURA RAMA CAIPIRA",
+        "COD SAP": 1320805,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "VASSOURA RECOLHEDORA AVANT A35698",
+        "COD SAP": 1230863,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "VASSOURA INDUSTRIAL C/ CABO GARY",
+        "COD SAP": 1320430,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "VASSOURA INDUSTRIAL C/ CABO GARY",
+        "COD SAP": 3320032,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "VASSOURA MOP 60 CM",
+        "COD SAP": 3527217,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "BAINHA FOICE COURO",
+        "COD SAP": 1178643,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "BAINHA FOICE SUBST ZHIB 1178643",
+        "COD SAP": 1700874,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "CABO P/FOICE MADEIRA",
+        "COD SAP": 1178558,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "FOICE MINERA TRAMONTINA - DOACAO",
+        "COD SAP": 1701468,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "FOICE MINERA TRAMONTINA 77619/635",
+        "COD SAP": 1178003,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "FOICE ROCADEIRA TRAMONTINA 77602115",
+        "COD SAP": 1156158,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "BAINHA ABB 39792",
+        "COD SAP": 1116950,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "BAINHA CAVADEIRA 2 CABOS LONA LOCOMOTIVA",
+        "COD SAP": 1184814,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "BAINHA COURO",
+        "COD SAP": 1127790,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "BAINHA ENXADA BIDIM",
+        "COD SAP": 1180590,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "BAINHA PÁ BICO ARRED LONA LOCOMOTIVA",
+        "COD SAP": 1181812,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "BAINHA PROTECAO ENXADA LONA LOCOMOTIVA",
+        "COD SAP": 1184518,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "MACHADO C/BAINHA COURO WENZEL 334 N3.5",
+        "COD SAP": 1170167,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "ESTUFA ELETRICA ARMAZENAMENTO MARMITAS",
+        "COD SAP": 1173222,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "MARMITA ELETRICA 12V",
+        "COD SAP": 1292725,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "MARMITA TERMICA",
+        "COD SAP": 3522519,
+        "quantidades permitidas": 1
+      },
+      {
+        "TIPO": "EPC",
+        "DESCRIÇÃO": "MARMITA TERMICA 1.5L",
+        "COD SAP": 1323920,
+        "quantidades permitidas": 1
+      }          
 ]
